@@ -18,14 +18,14 @@ bison --graph --report=all gramtree.y
 图形化生成pdf
 dot gramtree.dot -Tpdf -o result.pdf
 
-#编译
+# 编译
 在此文件所在路径"./"下执行以下命令以生成mytask
 不带调试方式 make
 带调试方式 make debug
 实例截图
 
-#功能
-1.必做内容
+# 功能
+- 必做内容
 能够识别词法错误和语法错误，部分结合语义进一步判断的错误目前以Type B中的";"缺失情况进行汇报
 样例1
 所需文件 example1.c
