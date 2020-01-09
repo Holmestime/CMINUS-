@@ -1,0 +1,91 @@
+State #43 is non-accepting -
+ associated rule line numbers:
+	65	66	67
+ out-transitions: [ .  0-9  E  e ]
+ jam-transitions: EOF [ \000--  /  :-D  F-d  f-\377 ]
+
+State #44 is non-accepting -
+ associated rule line numbers:
+	67
+ out-transitions: [ +  -  0-9 ]
+ jam-transitions: EOF [ \000-*  ,  .-/  :-\377 ]
+
+State #45 is non-accepting -
+ associated rule line numbers:
+	63
+ out-transitions: [ 0-9  a-f ]
+ jam-transitions: EOF [ \000-/  :-`  g-\377 ]
+
+State #57 is non-accepting -
+ associated rule line numbers:
+	65
+ out-transitions: [ +  -  0-9 ]
+ jam-transitions: EOF [ \000-*  ,  .-/  :-\377 ]
+
+State #59 is non-accepting -
+ associated rule line numbers:
+	90
+ out-transitions: [ \000-\377 ]
+ jam-transitions: EOF []
+
+State #60 is non-accepting -
+ associated rule line numbers:
+	90
+ out-transitions: [ \000-\377 ]
+ jam-transitions: EOF []
+
+State #63 is non-accepting -
+ associated rule line numbers:
+	66
+ out-transitions: [ +  -  0-9 ]
+ jam-transitions: EOF [ \000-*  ,  .-/  :-\377 ]
+
+State #66 is non-accepting -
+ associated rule line numbers:
+	67
+ out-transitions: [ 0-9 ]
+ jam-transitions: EOF [ \000-/  :-\377 ]
+
+State #75 is non-accepting -
+ associated rule line numbers:
+	65
+ out-transitions: [ 0-9 ]
+ jam-transitions: EOF [ \000-/  :-\377 ]
+
+State #77 is non-accepting -
+ associated rule line numbers:
+	90
+ out-transitions: [ \000-\377 ]
+ jam-transitions: EOF []
+
+State #79 is non-accepting -
+ associated rule line numbers:
+	65	66
+ out-transitions: [ +  -  0-9 ]
+ jam-transitions: EOF [ \000-*  ,  .-/  :-\377 ]
+
+State #81 is non-accepting -
+ associated rule line numbers:
+	66
+ out-transitions: [ 0-9 ]
+ jam-transitions: EOF [ \000-/  :-\377 ]
+
+State #90 is non-accepting -
+ associated rule line numbers:
+	90
+ out-transitions: [ \000-\377 ]
+ jam-transitions: EOF []
+
+State #91 is non-accepting -
+ associated rule line numbers:
+	90
+ out-transitions: [ \000-\377 ]
+ jam-transitions: EOF []
+
+State #92 is non-accepting -
+ associated rule line numbers:
+	65	66
+ out-transitions: [ 0-9 ]
+ jam-transitions: EOF [ \000-/  :-\377 ]
+
+Compressed tables always back up.
